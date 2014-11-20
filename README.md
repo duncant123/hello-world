@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Github setup testing
+Some things we want to do today are: diving, running, R and Elder Scrolls Online
